@@ -51,4 +51,3 @@ https://github.com/DrGoshD/portfolio-bootstrap
 
 ## Screenshot of the deployed application
 
-Just click here ![Console Finances](../consolefinances/assets/Deployed.jpg?raw=true) to view the end result.
